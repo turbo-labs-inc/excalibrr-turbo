@@ -1,0 +1,29 @@
+[ERROR 11-13 16:32:29.667][JS] Error: invalid json response body at https://feta.omlet.dev/api/cli-tracking/events reason: Unexpected end of JSON input
+[ERROR 11-13 16:32:29.669][JS] Stack: FetchError: invalid json response body at https://feta.omlet.dev/api/cli-tracking/events reason: Unexpected end of JSON input
+    at /Users/skoorbcaz/.npm/_npx/6f6f8d36092b5491/node_modules/node-fetch/lib/index.js:273:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async apiRequest (/Users/skoorbcaz/.npm/_npx/6f6f8d36092b5491/node_modules/@omlet/cli/dist/node-src/apiClient.js:247:24)
+[ERROR 11-13 16:33:58.792][JS] Error: Could not find git root
+[ERROR 11-13 16:33:58.794][JS] Stack: NoGitRootFound: Could not find git root
+    at analyzeRepo (/Users/skoorbcaz/.npm/_npx/6f6f8d36092b5491/node_modules/@omlet/cli/dist/node-src/analyzer.js:697:23)
+    at async init (/Users/skoorbcaz/.npm/_npx/6f6f8d36092b5491/node_modules/@omlet/cli/dist/node-src/analyzer.js:928:44)
+    at async Command.<anonymous> (/Users/skoorbcaz/.npm/_npx/6f6f8d36092b5491/node_modules/@omlet/cli/dist/node-src/cli.js:316:9)
+    at async Command.parseAsync (/Users/skoorbcaz/.npm/_npx/6f6f8d36092b5491/node_modules/commander/lib/command.js:935:5)
+[ERROR 11-13 16:33:58.795][JS] Context: {
+  "path": "/Users/skoorbcaz/Dev+Tech/Gravitate"
+}
+[ERROR 11-13 16:33:59.409][JS] Error: invalid json response body at https://feta.omlet.dev/api/cli-tracking/events reason: Unexpected end of JSON input
+[ERROR 11-13 16:33:59.409][JS] Stack: FetchError: invalid json response body at https://feta.omlet.dev/api/cli-tracking/events reason: Unexpected end of JSON input
+    at /Users/skoorbcaz/.npm/_npx/6f6f8d36092b5491/node_modules/node-fetch/lib/index.js:273:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async apiRequest (/Users/skoorbcaz/.npm/_npx/6f6f8d36092b5491/node_modules/@omlet/cli/dist/node-src/apiClient.js:247:24)
+[ERROR 11-13 16:34:00.206][JS] Error: invalid json response body at https://feta.omlet.dev/api/cli-tracking/events reason: Unexpected end of JSON input
+[ERROR 11-13 16:34:00.206][JS] Stack: FetchError: invalid json response body at https://feta.omlet.dev/api/cli-tracking/events reason: Unexpected end of JSON input
+    at /Users/skoorbcaz/.npm/_npx/6f6f8d36092b5491/node_modules/node-fetch/lib/index.js:273:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async apiRequest (/Users/skoorbcaz/.npm/_npx/6f6f8d36092b5491/node_modules/@omlet/cli/dist/node-src/apiClient.js:247:24)
+[ERROR 11-13 16:40:45.711][JS] Error: invalid json response body at https://feta.omlet.dev/api/cli-tracking/events reason: Unexpected end of JSON input
+[ERROR 11-13 16:40:45.711][JS] Stack: FetchError: invalid json response body at https://feta.omlet.dev/api/cli-tracking/events reason: Unexpected end of JSON input
+    at /Users/skoorbcaz/.npm/_npx/6f6f8d36092b5491/node_modules/node-fetch/lib/index.js:273:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async apiRequest (/Users/skoorbcaz/.npm/_npx/6f6f8d36092b5491/node_modules/@omlet/cli/dist/node-src/apiClient.js:247:24)
